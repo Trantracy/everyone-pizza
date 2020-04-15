@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+body{
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    
+}
+nav{
+    background-color:rgba(233, 151, 44,0.8);
+    font-size:  20 px;
+    font-weight: 700;
+}
+    
+.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link:hover {
+    color: brown;
+}
+.mycarousel{ 
+    height: 100%;
+    width: 100%;
+}
+
+#text {
+    padding: 20px;
+    text-align: center;
+}
+
+#signup {
+    border: 2px solid grey;
+    padding: 20px;
+    border-radius: 15px;    
+}
+footer {
+    background-color:rgba(233, 151, 44,0.9) ;
+}
